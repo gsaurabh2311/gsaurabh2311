@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A passionate frontend developer from India
+  A Passionate Frontend Developer from India
 </p>
 
 🔭 I’m currently working on **[🚀 Freelancing - WebPage 😍]**
@@ -14,7 +14,7 @@
 
 👨‍💻 All of my projects are available at **[My Portfolio](https://devsaurabh97.netlify.app/)**
 
-💬 Ask me about **frontend Development.**
+💬 Ask me about **Frontend Development.**
 
 🚀 Love to talk about **Research and Innovation!**
 
